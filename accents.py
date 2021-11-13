@@ -1,6 +1,7 @@
 '''
 взять ударения с сайта morpher.ru
 '''
+#проверка
 import re
 import asyncio
 import aiohttp
