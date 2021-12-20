@@ -1,0 +1,61 @@
+body{
+	padding: 60px 0px 30px 0px;
+	background-color: #F0F0FF;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700&subset=cyrillic');
+@import url('https://fonts.googleapis.com/css?family=Neuton:200,400,800');
+
+* {
+	font-family: 'Neuton', serif;
+}
+
+section {
+	padding: 1rem 0;
+	border-bottom: 2px solid #f1f1f1;
+}
+
+section:last-of-type {
+	border-bottom: 0;
+}
+
+.container{
+	text-align: left;
+}
+
+.list .nav li,
+.list .nav li a {
+	outline: none;
+}
+
+.row > h1{
+	float: left;
+}
+
+.offset-md-1{
+	float: right;
+}
+
+#allrecult > p > b {
+	outline-width: 2px;
+	outline-style: dashed;
+	outline-offset: -5px
+}
+.red > b{
+	outline-color: red;
+}
+.blue > b{
+	 outline-color: blue;
+}
+#allrecult > p {
+	font-weight: bold;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	opacity: 0.5;
+}
+
+.flash {
+	color: red;
+	padding: 5px;
+}
