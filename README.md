@@ -9,3 +9,5 @@ pip install -r app/reqirements.txt
 модули и файлы с классами закинуты в папку mod 
 
 основной файл eqphone.py 
+
+forked
