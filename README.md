@@ -10,4 +10,4 @@ pip install -r app/reqirements.txt
 
 основной файл eqphone.py 
 
-forked
+forked 1
